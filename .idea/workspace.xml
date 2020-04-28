@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f84784e-f494-46a3-a025-4fd448f275ab" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\workspace\factory" />
+        <option value="C:\workspace\factory\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1avzMKpTjtLL826wjtccP3bmu5c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.Dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.ui.Client" />
+      <module name="factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f84784e-f494-46a3-a025-4fd448f275ab" name="默认更改列表" comment="" />
+      <created>1587630805669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587630805669</updated>
+      <workItem from="1587630807109" duration="1554000" />
+      <workItem from="1587880941922" duration="8892000" />
+      <workItem from="1588040224252" duration="7085000" />
+      <workItem from="1588058056807" duration="10184000" />
+      <workItem from="1588075150534" duration="2077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="32" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588068574291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="32" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588068574291" />
+    <state x="233" y="0" key="#意向" timestamp="1588059594929">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#意向/0.0.1280.680@0.0.1280.680" timestamp="1588059594929" />
+    <state x="233" y="0" key="#项目结构" timestamp="1588060870725">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#项目结构/0.0.1280.680@0.0.1280.680" timestamp="1588060870725" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1588077409647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588077409647" />
+    <state x="517" y="231" width="269" height="217" key="Github.ShareDialog" timestamp="1588076391678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="517" y="231" width="269" height="217" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1588076391678" />
+    <state x="469" y="46" key="Github.UntrackedFilesDialog" timestamp="1588076402009">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="469" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1588076402009" />
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom" timestamp="1588068886733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588068886733" />
+    <state width="1222" height="163" key="GridCell.Tab.0.center" timestamp="1588068886733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588068886733" />
+    <state width="1222" height="163" key="GridCell.Tab.0.left" timestamp="1588068886733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588068886733" />
+    <state width="1222" height="163" key="GridCell.Tab.0.right" timestamp="1588068886733">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588068886733" />
+    <state width="1222" height="200" key="GridCell.Tab.1.bottom" timestamp="1588068886718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="200" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588068886718" />
+    <state width="1222" height="200" key="GridCell.Tab.1.center" timestamp="1588068886718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="200" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588068886718" />
+    <state width="1222" height="200" key="GridCell.Tab.1.left" timestamp="1588068886718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="200" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588068886718" />
+    <state width="1222" height="200" key="GridCell.Tab.1.right" timestamp="1588068886718">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="200" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588068886718" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588077332385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588077332385" />
+    <state x="340" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588075168503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="340" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588075168503" />
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup" timestamp="1588064741090">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1588064741090" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587630973223">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587630973223" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/factory$Client.ic" NAME="Client Coverage Results" MODIFIED="1588066281762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima.ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>
